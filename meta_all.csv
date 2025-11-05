@@ -1,0 +1,45 @@
+sample,SRP,Treatment,Timepoint
+SRR13422665,SRP301469,Untreated,48h
+SRR13422666,SRP301469,Untreated,48h
+SRR13422667,SRP301469,Untreated,48h
+SRR13422668,SRP301469,Untreated,48h
+SRR13422669,SRP301469,Apoptotic cells,48h
+SRR13422670,SRP301469,Apoptotic cells,48h
+SRR13422671,SRP301469,Apoptotic cells,48h
+SRR13422672,SRP301469,Apoptotic cells,48h
+SRR16936780,SRP345877,Untreated,2h + 4h
+SRR16936781,SRP345877,Untreated,2h + 4h
+SRR16936782,SRP345877,Untreated,2h + 4h
+SRR16936792,SRP345877,Apoptotic cells,2h + 4h
+SRR16936793,SRP345877,Apoptotic cells,2h + 4h
+SRR16936794,SRP345877,Apoptotic cells,2h + 4h
+SRR18701208,SRP369109,Apoptotic cells,1h + 6h
+SRR18701209,SRP369109,Untreated,1h + 6h
+SRR18701210,SRP369109,Apoptotic cells,1h + 6h
+SRR18701211,SRP369109,Untreated,1h + 6h
+SRR18701212,SRP369109,Apoptotic cells,1h + 6h
+SRR18701213,SRP369109,Untreated,1h + 6h
+SRR18701214,SRP369109,Apoptotic cells,1h + 6h
+SRR18701215,SRP369109,Untreated,1h + 6h
+SRR18701216,SRP369109,Apoptotic cells,1h + 6h
+SRR18701217,SRP369109,Untreated,1h + 6h
+SRR18701218,SRP369109,Apoptotic cells,1h + 6h
+SRR18701219,SRP369109,Untreated,1h + 6h
+SRR27614996,SRP484543,Apoptotic cells,180min
+SRR27614997,SRP484543,Apoptotic cells,90min
+SRR27614998,SRP484543,Apoptotic cells,180min
+SRR27614999,SRP484543,Apoptotic cells,90min
+SRR27615000,SRP484543,Apoptotic cells,180min
+SRR27615001,SRP484543,Apoptotic cells,90min
+SRR27615002,SRP484543,Apoptotic cells,90min
+SRR27615007,SRP484543,Apoptotic cells,180min
+SRR27615008,SRP484543,Untreated,Alone
+SRR27615009,SRP484543,Untreated,Alone
+SRR27615010,SRP484543,Untreated,Alone
+SRR27615011,SRP484543,Untreated,Alone
+WT-1_S1,lab_data,Untreated,3h
+WT-2_S2,lab_data,Untreated,3h
+WT-3_S3,lab_data,Untreated,3h
+WT-AC-1_S4,lab_data,Apoptotic cells,3h
+WT-AC-2_S5,lab_data,Apoptotic cells,3h
+WT-AC-3_S6,lab_data,Apoptotic cells,3h
