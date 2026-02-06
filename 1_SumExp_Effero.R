@@ -3,7 +3,6 @@ library(tidyverse)
 library(SummarizedExperiment)
 library(S4Vectors)
 
-setwd("/scratch/fa453/all_effero/Efferocytosis_RNAseq")
 # ---- Read meta (for colData) ----
 meta_all <- readr::read_csv(file.path("meta_all.csv"), show_col_types = FALSE) %>%
   mutate(across(everything(), as.character)) %>%
